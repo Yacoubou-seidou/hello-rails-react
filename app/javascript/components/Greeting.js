@@ -11,7 +11,7 @@ const Greeting = () => {
   }, [dispatch]);
 
   return (
-    <div>
+    <div className='container'>
       <h1>Random Greeting</h1>
       <p>{greeting}</p>
     </div>
