@@ -10,6 +10,9 @@ greetings = [
   "Hi there!",
   "Greetings!",
   "Hey, how's it going?",
+  "What new?",
+  "Holla",
+  "Salut",
   "Welcome!"
 ]
 
