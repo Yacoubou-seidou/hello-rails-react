@@ -85,8 +85,16 @@ Install this project with:
 ```
   cd hello-rails-react
   bundle install && npm install
+  yarn install
+  bundle exec rails assets:precompile
+  rails db:create
+  rails db:migrate
+  rails db:seed
 ```
-
+Notice if you dont have yarn you need to intall it in your systeme:
+```
+npm install -g yarn
+```
 ### Usage
 
 To run the project, execute the following command:
